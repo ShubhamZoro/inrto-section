@@ -114,6 +114,13 @@ span:hover {
   p{
     width: 70%; line-height: 1.2; color: grey;
   }
+  .client{
+    padding-top: 140px;
+  }
+
+  .client img{
+    padding-right: 30px;
+  }
 
 .dropdown-content a {
     color: black;
@@ -146,7 +153,8 @@ border-radius: 0.25rem;}
   }
   .front-image{
     width:100%;
-    margin-left: 40px;
+    margin-left: 10%;
+    height: 100%;
   }
   .main-content{
     padding-top: 10%;
@@ -158,9 +166,13 @@ border-radius: 0.25rem;}
   }
   .p{
     padding-left: 20%;
+    text-align: center;
   }
   .learn-btn{
     margin-left: 30%;
+  }
+  .client{
+    padding-top: 100px;
   }
 }
   
